@@ -1,1 +1,1 @@
-# COS30008-Data-Structure-and-Patterns
+# Data structure, pattern and algorithm
